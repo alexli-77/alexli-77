@@ -1,10 +1,14 @@
 # Hi, I'm Leon 👋
 
-**English · [中文](#中文版)**（第二版可拆成独立 README.zh.md 切换）
+**English · [中文](#中文版)**
 
-Ex-search & infra engineer (Java / C++ / Kubernetes), now a CS PhD student at Université de Montréal. I build small, opinionated agents that run my daily life — planning, reviewing, monitoring — so the saved hours go to research, my products, and badminton. 🏸
+Ex-search & infra engineer, now a CS PhD student at Université de Montréal. I build small, opinionated agents that run my daily life — planning, reviewing, monitoring — so the saved hours go to research, my products, and badminton. 🏸
 
-🌐 [docflowai.xyz](https://docflowai.xyz) · 📧 alex.geekai@outlook.com · 📍 Montreal
+Research topics: ML-enhanced software trace analysis and observability.
+Skills: Old School Programming, Coding with AI Tools, Fine-tunning, CI/CD Tools (K8s, Docker), Elasticsearch.
+
+
+📧 alex.geekai@outlook.com · 📍 Montreal
 
 ---
 
@@ -81,7 +85,11 @@ Recent builds (last 3 months) — agents, radars and tools, mostly built with co
 <a name="中文版"></a>
 ## 中文版（简介）
 
-前搜索/基础架构工程师（Java / C++ / K8s），现蒙特利尔大学 CS 博士在读。用 agent 把日常的计划、复盘、信息监控自动化，省下的时间用来做研究、做产品、打羽毛球 🏸。正在做：daily-os（个人日常操作系统）、unimap-condor（大学情报地图）、DocFlow AI（文档流 SaaS）。
+前搜索/基础架构工程师，现蒙特利尔大学 CS 博士在读。用 AI agent 把日常的计划、复盘、信息监控自动化，省下的时间用来做研究、做产品、打羽毛球 🏸。
+正在做：daily-os（个人日常操作系统）、unimap-condor（大学情报地图）、DocFlow AI（文档流 SaaS）。
+
+研究方向：基于机器学习的软件追踪分析与可观测性。
+技能：传统编程、使用AI工具进行编码、模型微调、CI/CD工具（K8s、Docker）、Elasticsearch。
 
 ---
 
