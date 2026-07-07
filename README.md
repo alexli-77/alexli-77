@@ -7,7 +7,6 @@ Ex-search & infra engineer, now a CS PhD student at Université de Montréal. I 
 Research topics: ML-enhanced software trace analysis and observability.
 Skills: Old School Programming, Coding with AI Tools, Fine-tunning, CI/CD Tools (K8s, Docker), Elasticsearch.
 
-
 📧 alex.geekai@outlook.com · 📍 Montreal
 
 ---
@@ -36,7 +35,7 @@ Skills: Old School Programming, Coding with AI Tools, Fine-tunning, CI/CD Tools 
 
 ---
 
-## 🎓 学术研究 · Academic & Research
+## 🎓 Academic & Research
 
 PhD life, made slightly more survivable.
 
@@ -54,7 +53,7 @@ PhD life, made slightly more survivable.
 
 🔧 [painless-llvm](https://github.com/alexli-77/painless-llvm) — Convert Painless AST to LLVM IR
 
-## 🤖 AI Coding
+## 🤖 AI Coding 
 
 Recent builds (last 3 months) — agents, radars and tools, mostly built with coding agents.
 
