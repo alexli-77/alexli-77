@@ -11,21 +11,17 @@ Skills: Old School Programming, Coding with AI Tools, Fine-tunning, CI/CD Tools 
 
 ---
 
-## 🆕 New
+## 🚀 Products
 
-🗓️ [daily-os](https://github.com/alexli-77/daily-os) — A personal daily operating system: plan, execute and review every day with an agent workflow
+📄 [DocuEngine AI](https://www.docuengineai.com/) — Professional document generation engine (SaaS)
 
-🌐 [docuengineai.com](https://www.docuengineai.com/) — Turn messy documents into structured flows (SaaS)
+🗺️ [UniMap Condor](https://www.unimapcondor.com/) — CS Master's shortlisting workspace for North America, on an interactive university map
+
+🗓️ Daily OS — A personal daily operating system: plan, execute and review every day with an agent workflow. Open source: [backend](https://github.com/alexli-77/daily-os-backend) · [macOS app](https://github.com/alexli-77/daily-os-macos)
 
 ---
 
 ## ⭐ Featured projects
-
-🗓️ [daily-os](https://github.com/alexli-77/daily-os) — A personal daily operating system: plan, execute and review every day with an agent workflow
-
-🗺️ [unimap-condor](https://github.com/alexli-77/unimap-condor) — Interactive university intelligence map built with React, MapLibre, OpenFreeMap, OpenAlex & ROR
-
-📄 [DocFlow AI](https://docflowai.xyz) — Turn messy documents into structured flows (SaaS)
 
 🦅 [kestrel](https://github.com/alexli-77/kestrel) — A small reliability companion for scheduled local services: detect missed jobs, catch up, report safely
 
@@ -57,7 +53,7 @@ PhD life, made slightly more survivable.
 
 Recent builds (last 3 months) — agents, radars and tools, mostly built with coding agents.
 
-📘 [daily-os-feishu](https://github.com/alexli-77/daily-os-feishu) — Feishu-first local Daily OS agent for Mac
+📘 [daily-os-backend](https://github.com/alexli-77/daily-os-backend) — Feishu-first local Daily OS agent for Mac
 
 🦫 [moss-marten](https://github.com/alexli-77/moss-marten) — A configurable daily workflow agent for planning and review
 
@@ -85,7 +81,7 @@ Recent builds (last 3 months) — agents, radars and tools, mostly built with co
 ## 中文版（简介）
 
 前搜索/基础架构工程师，现蒙特利尔大学 CS 博士在读。用 AI agent 把日常的计划、复盘、信息监控自动化，省下的时间用来做研究、做产品、打羽毛球 🏸。
-正在做：daily-os（个人日常操作系统）、unimap-condor（大学情报地图）、DocFlow AI（文档流 SaaS）。
+正在做的产品：[DocuEngine AI](https://www.docuengineai.com/)（文档生成引擎 SaaS）、[UniMap Condor](https://www.unimapcondor.com/)（北美 CS 硕士选校工作台）、Daily OS（个人日常操作系统，backend 与 macOS 端开源）。
 
 研究方向：基于机器学习的软件追踪分析与可观测性。
 技能：传统编程、使用AI工具进行编码、模型微调、CI/CD工具（K8s、Docker）、Elasticsearch。
