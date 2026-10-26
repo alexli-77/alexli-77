@@ -5,7 +5,7 @@
 I used to build search and infrastructure systems in industry. Now I'm a CS PhD student at Université de Montréal. I write small agents that plan and review my days and keep an eye on AI news and flight prices, and I spend the hours they save on research, my products and badminton 🏸. More about me: [alexli-77.github.io](https://alexli-77.github.io/)
 
 Research: ML-enhanced software trace analysis and observability.
-Tools I work with: Kubernetes, Docker, CI/CD and Elasticsearch. I fine-tune models, and I write code both by hand and with AI coding agents.
+Tools I am familiar with: Kubernetes, Docker, CI/CD and Elasticsearch. I fine-tune models, and I write code both by hand and with AI coding agents.
 
 📧 alex.geekai@outlook.com · 📍 Montreal
 
