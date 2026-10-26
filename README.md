@@ -4,7 +4,7 @@
 
 I used to build search and infrastructure systems in industry. Now I'm a CS PhD student at Université de Montréal. I write small agents that plan and review my days and keep an eye on AI news and flight prices, and I spend the hours they save on research, my products and badminton 🏸. More about me: [alexli-77.github.io](https://alexli-77.github.io/)
 
-Research: AI Agent trajectories analysis and observability.
+I study AI agents: their trajectories, their energy use, and how to verify what they do. My goal is agents that are more transparent and more efficient.
 Tools I am familiar with: Kubernetes, Docker, CI/CD and Elasticsearch. I fine-tune models, and I write code both by hand and with AI coding agents.
 
 📧 alex.geekai@outlook.com · 📍 Montreal
@@ -66,5 +66,5 @@ PhD life, made slightly more survivable.
 
 在做的产品：[DocuEngine AI](https://www.docuengineai.com/)（把你的材料整理成可直接提交的法律、移民和商业文书，导出可编辑的 Word）、[UniMap Condor](https://www.unimapcondor.com/)（北美 CS 硕士选校工作台）、[Daily OS](https://alexli-77.github.io/daily-os/)（跑在自己 Mac 上的计划 agent，后端和 macOS 端开源）。另外在写 [上岸搭子](https://www.shanganbuddy.com/)，记录留学、签证、移民和远程工作的一手经验。
 
-研究方向：AI Agent 轨迹分析与可观测性。
+研究方向：AI Agent 的运行轨迹、能耗与可观测性验证，目标是让 Agent 更透明、更高效。
 常用技术：K8s、Docker、CI/CD、Elasticsearch，也做模型微调；代码手写和 AI 编程工具都用。
