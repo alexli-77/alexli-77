@@ -33,7 +33,7 @@ PhD life, made slightly more survivable.
 
 🧪 [Runtime2Test](https://github.com/alexli-77/Runtime2Test): LLM-based test generation grounded in runtime data ([write-up](https://alexli-77.github.io/writing/runtime2test/))
 
-🐒 [Wukong](https://github.com/alexli-77/Wukong): a Pankti-style prototype that generates JUnit tests from production runs. Spoon picks candidate methods, a Javassist agent records their objects as JSON, and a generator rebuilds them into tests
+🐒 [Wukong](https://github.com/alexli-77/Wukong): an early Pankti-style prototype for turning runtime recordings into JUnit tests. Spoon picks candidate methods, a Javassist agent records calls as JSON, and a generator rebuilds them into tests
 
 🎒 [academic-survival-kit](https://github.com/alexli-77/academic-survival-kit): conference deadline trackers and resources for new PhD students
 
@@ -66,9 +66,5 @@ PhD life, made slightly more survivable.
 
 在做的产品：[DocuEngine AI](https://www.docuengineai.com/)（把你的材料整理成可直接提交的法律、移民和商业文书，导出可编辑的 Word）、[UniMap Condor](https://www.unimapcondor.com/)（北美 CS 硕士选校工作台）、[Daily OS](https://alexli-77.github.io/daily-os/)（跑在自己 Mac 上的计划 agent，后端和 macOS 端开源）。另外在写 [上岸搭子](https://www.shanganbuddy.com/)，记录留学、签证、移民和远程工作的一手经验。
 
-研究方向：基于机器学习的软件追踪分析与可观测性。
+研究方向：AI Agent 轨迹分析与可观测性。
 常用技术：K8s、Docker、CI/CD、Elasticsearch，也做模型微调；代码手写和 AI 编程工具都用。
-
----
-
-*⚡ Fun fact: my project names are all animals & plants: kestrel, ferret, owl, squirrel, moss-marten, wood-sorrel…*
