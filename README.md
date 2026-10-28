@@ -13,11 +13,11 @@ Tools I am familiar with: Kubernetes, Docker, CI/CD and Elasticsearch. I fine-tu
 
 ## Products
 
+🗓️ [Daily OS](https://alexli-77.github.io/daily-os/): a planning agent that runs on your own Mac. It breaks five-year, annual and quarterly OKRs into daily plans, using your Feishu calendar and tasks, GitHub, Linear and notes. Open source: [backend](https://github.com/alexli-77/daily-os-backend) · [macOS app](https://github.com/alexli-77/daily-os-macos)
+
 📄 [DocuEngine AI](https://www.docuengineai.com/): turns your facts into filing-ready legal, immigration and business documents, exported as editable Word files
 
 🗺️ [UniMap Condor](https://www.unimapcondor.com/): a workspace for shortlisting CS Master's programs in North America, built on an interactive university map
-
-🗓️ [Daily OS](https://alexli-77.github.io/daily-os/): a planning agent that runs on your own Mac. It breaks five-year, annual and quarterly OKRs into daily plans, using your Feishu calendar and tasks, GitHub, Linear and notes. Open source: [backend](https://github.com/alexli-77/daily-os-backend) · [macOS app](https://github.com/alexli-77/daily-os-macos)
 
 ## Featured projects
 
